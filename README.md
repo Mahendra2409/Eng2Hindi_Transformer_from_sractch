@@ -9,7 +9,7 @@ So I Implemented "[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.p
  I have used [Aarif1430/english-to-hindi](https://huggingface.co/datasets/Aarif1430/english-to-hindi) Dataset from hugging face which has 1.27lakh examples.
 
 
-![Transformer Architecture Diagram](Pictures/Transformer1.png) 
+<!-- ![Transformer Architecture Diagram](Pictures/Transformer1.png)  -->
 
 
 ## Run 
