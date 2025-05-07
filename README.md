@@ -47,7 +47,7 @@ Run
 
 ![Transformer Architecture Diagram](Pictures/14.png) 
 
-2. After 21 Epoch 
+3. After 21 Epoch 
 
 ![Transformer Architecture Diagram](Pictures/21.png) 
 
